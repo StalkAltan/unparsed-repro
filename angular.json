@@ -3,6 +3,8 @@
   "version": 2,
   "projects": {
     "app-a": "apps/app-a",
-    "app-a-e2e": "apps/app-a-e2e"
+    "app-a-e2e": "apps/app-a-e2e",
+    "app-b": "apps/app-b",
+    "app-b-e2e": "apps/app-b-e2e"
   }
 }
